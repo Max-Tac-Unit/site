@@ -1,6 +1,6 @@
 [submodule "images"]
 	path = images
-    url = https://github.com/pibook/images.git
+    url = https://github.com/Max-Tac-Unit/images-1
     branch = master
 [submodule "_gallery"]
 	path = _gallery
